@@ -1,4 +1,4 @@
-# 🏃 Race Training Plan
+# Race Training Plan
 
 A fully interactive, single-file training plan tracker built for runners. No account, no app, no server — just open the HTML file in any browser and start planning.
 
